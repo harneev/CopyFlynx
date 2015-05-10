@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CopyFlynx</string>
+    <string name="intent_receiver_name">Copy Flynx</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="intent_receiver_activity_name">Welcome to IntentReceiver</string>
+
+    <!-- Buttons Text -->
+    <string name="button_launch_head">Launch Head</string>
+
+    <!-- Menu Strings -->
+    <string name="action_settings">Settings</string>
+    <string name="action_open_browser">Open in Browser</string>
+
+</resources>
